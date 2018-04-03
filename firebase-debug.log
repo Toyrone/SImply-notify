@@ -1,0 +1,31 @@
+[debug] [2018-04-03T13:23:36.469Z] ----------------------------------------------------------------------
+[debug] [2018-04-03T13:23:36.485Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Akins\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] [2018-04-03T13:23:36.485Z] CLI Version:   3.17.7
+[debug] [2018-04-03T13:23:36.485Z] Platform:      win32
+[debug] [2018-04-03T13:23:36.485Z] Node Version:  v6.10.3
+[debug] [2018-04-03T13:23:36.485Z] Time:          Tue Apr 03 2018 14:23:36 GMT+0100 (W. Central Africa Standard Time)
+[debug] [2018-04-03T13:23:36.485Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-04-03T13:23:36.626Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-04-03T13:23:36.627Z] > authorizing via signed-in user
+[debug] [2018-04-03T13:23:36.631Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/simply-notify-11d54  
+  
+ Tue Apr 03 2018 14:23:36 GMT+0100 (W. Central Africa Standard Time)
+[debug] [2018-04-03T13:23:38.021Z] <<< HTTP RESPONSE 200
+[debug] [2018-04-03T13:23:38.023Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/simply-notify-11d54/tokens  
+  
+ Tue Apr 03 2018 14:23:38 GMT+0100 (W. Central Africa Standard Time)
+[debug] [2018-04-03T13:23:38.981Z] <<< HTTP RESPONSE 200
+[debug] [2018-04-03T13:23:38.983Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/simply-notify-11d54  
+  
+ Tue Apr 03 2018 14:23:38 GMT+0100 (W. Central Africa Standard Time)
+[debug] [2018-04-03T13:23:40.418Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from 'C:\Users\Akins\Documents\repos\playground\simply-notify'...
+[info] 
+[debug] [2018-04-03T13:23:40.418Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/922554964248/clients/_:getWebAppConfig  
+  
+ Tue Apr 03 2018 14:23:40 GMT+0100 (W. Central Africa Standard Time)
+[debug] [2018-04-03T13:23:41.413Z] <<< HTTP RESPONSE 200
+[info] +  hosting: Local server: http://localhost:5000
+
